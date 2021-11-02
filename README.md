@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/77938499/139867292-589247c8-7f77-495a-bd6f-43d555e2a11a.png)
 
 **3-** TEXT_REWARDS yeri chat ödülleridir yani belirtilen kullanıcı belirttiğin bir mesaj sayısına oluşursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 1000, 5000, 50000 ve 100000 mesaj atarsa rollerini verecek
+![image](https://user-images.githubusercontent.com/77938499/139869258-06582dac-3ca3-460b-a970-9dfc919dc851.png)
 
 # BOTU ÇALIŞTIRMA
 **1-** Evet artık hazırsın sıra botu çalıştırma kısmına geldi. Öncelikle terminali açıp npm install yazmalısın, **UNUTMA** modülleri indirmediğin için her modül hata verecektir. Eğer modülleri indirdikten sonra modüller hata vermeye devam ediyorsa Visual Studio Code'u kapatıp yeniden açmanı tavsiye ederiz.
