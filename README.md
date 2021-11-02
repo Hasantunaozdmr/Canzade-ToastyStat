@@ -1,5 +1,7 @@
 # Canzade-ToastyStat
 
+Bot 50 star olduğunda paylaşılacaktır
+
 # Kurulum
 
 **1-** process.env klasorünün ismini .env çevir <br>
