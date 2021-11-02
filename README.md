@@ -16,7 +16,7 @@
 **1-** config.ts dosyasına girip bazı idleri girmen gerekiyor
 **2-** VOICE_REWARDS yeri ses ödülleridir yani belirtilen kullanıcı belirttiğin bir süre seste durursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 4 gün, 12 gün, 33 gün ve 83 gün seste durursa rollerini verecek
 ![image](https://user-images.githubusercontent.com/77938499/139867292-589247c8-7f77-495a-bd6f-43d555e2a11a.png)
-#**3-** TEXT_REWARDS yeri chat ödülleridir yani belirtilen kullanıcı belirttiğin bir mesaj sayısına oluşursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 1000, 5000, 50000 ve 100000 mesaj atarsa rollerini verecek
+# **3-** TEXT_REWARDS yeri chat ödülleridir yani belirtilen kullanıcı belirttiğin bir mesaj sayısına oluşursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 1000, 5000, 50000 ve 100000 mesaj atarsa rollerini verecek
 
 # BOTU ÇALIŞTIRMA
 **1-** Evet artık hazırsın sıra botu çalıştırma kısmına geldi. Öncelikle terminali açıp npm install yazmalısın, **UNUTMA** modülleri indirmediğin için her modül hata verecektir. Eğer modülleri indirdikten sonra modüller hata vermeye devam ediyorsa Visual Studio Code'u kapatıp yeniden açmanı tavsiye ederiz.
