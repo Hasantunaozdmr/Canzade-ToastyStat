@@ -19,7 +19,7 @@ Bot 50 star olduğunda paylaşılacaktır
 **2-** VOICE_REWARDS yeri ses ödülleridir yani belirtilen kullanıcı belirttiğin bir süre seste durursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 4 gün, 12 gün, 33 gün ve 83 gün seste durursa rollerini verecek. <br>
 ![image](https://user-images.githubusercontent.com/77938499/139867292-589247c8-7f77-495a-bd6f-43d555e2a11a.png)
 
-**3-** TEXT_REWARDS yeri chat ödülleridir yani belirtilen kullanıcı belirttiğin bir mesaj sayısına oluşursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 1000, 5000, 50000 ve 100000 mesaj atarsa rollerini verecek.
+**3-** TEXT_REWARDS yeri chat ödülleridir yani belirtilen kullanıcı belirttiğin bir mesaj sayısına oluşursa ona belirttiğin hediye rolünü ekler. Alttaki ss'de gözüktüğü gibi kullanıcı toplam 1000, 5000, 50000 ve 100000 mesaj atarsa rollerini verecek. <br>
 ![image](https://user-images.githubusercontent.com/77938499/139869258-06582dac-3ca3-460b-a970-9dfc919dc851.png)
 
 # BOTU ÇALIŞTIRMA
