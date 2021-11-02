@@ -2,7 +2,7 @@
 
 # Kurulum
 
-**1-** process.env klasorünün ismini .env çevir
+**1-** process.env klasorünün ismini .env çevir \n
 **2-** Bot tokenini gir
 **3-** MongoDB url'ni gir, eğer urlyi almayı bilmiyorsan Youtube'dan araştırıp alabilirsin.
 **4-** LeaderBoard kanal id'ni LEADERBOARDS_CHANNEL kısmına gir yani bu kanala 2 tane embed atıp o mesajları her 30 dakikada bir düzenleyecek
