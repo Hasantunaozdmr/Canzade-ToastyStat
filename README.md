@@ -4,8 +4,8 @@ Bot 50 star olduğunda paylaşılacaktır
 
 # Kurulum
 
-**1-** process.env klasorünün ismini .env çevir <br>
-**2-** Bot tokenini gir <br>
+**1-** Botu zipten çıkartıp vsc ile aç <br>
+**2-** .env kısmına Bot tokenini gir <br>
 **3-** MongoDB url'ni gir, eğer urlyi almayı bilmiyorsan Youtube'dan araştırıp alabilirsin. <br>
 **4-** LeaderBoard kanal id'ni LEADERBOARDS_CHANNEL kısmına gir yani bu kanala 2 tane embed atıp o mesajları her 30 dakikada bir düzenleyecek <br>
 **5-** Şimdi biraz sıkıntılı kısma geliyoruz yukarıda bellirtiğin leaderboard kanalına ilk önce aynı token ile başka bir bota girip, o kanala 2 tane mesaj attırman gerekiyor. <br>
